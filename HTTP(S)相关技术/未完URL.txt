@@ -1,0 +1,5 @@
+https://nchc.dl.sourceforge.net/project/xampp/XAMPP%20Windows/7.3.8/xampp-windows-x64-7.3.8-2-VC15-installer.exe
+
+https://www.php.net/distributions/manual/php_enhanced_en.chm
+
+https://www.php.net/distributions/manual/php_enhanced_zh.chm
